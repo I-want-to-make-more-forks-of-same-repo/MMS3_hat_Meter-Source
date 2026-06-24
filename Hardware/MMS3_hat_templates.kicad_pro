@@ -238,7 +238,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "A"
+      "sch_revision": "Ver 1.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -1081,7 +1081,7 @@
         "uuid": "6596548a-44e0-46d8-8624-fd71cf4a3e17"
       }
     ],
-    "used_designators": "D1",
+    "used_designators": "Q9-10,R30-33,#PWR86-87",
     "variants": []
   },
   "sheets": [
@@ -1104,6 +1104,10 @@
     [
       "56050d79-5900-47d6-893d-3da0e8bf5810",
       "ID EEPROM"
+    ],
+    [
+      "2fdbc5d3-13f4-45b9-9746-9aedb5a65e5b",
+      "CH32V003"
     ]
   ],
   "text_variables": {
