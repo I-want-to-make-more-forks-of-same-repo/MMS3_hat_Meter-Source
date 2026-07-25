@@ -3128,7 +3128,7 @@
 			(uuid "4ee3f3af-a155-41e9-b5f3-8e97ffe5d9d7")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR030")
 					(unit 1)
@@ -3208,7 +3208,7 @@
 			(uuid "d6a7f363-3f05-4e86-927c-4afb7aa96937")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR016")
 					(unit 1)
@@ -3288,7 +3288,7 @@
 			(uuid "8c4058c8-b8fe-4e22-af92-14063b0cde07")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR014")
 					(unit 1)
@@ -3366,7 +3366,7 @@
 			(uuid "9511a9d9-2661-4fa9-83c1-98ba0c17e936")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR041")
 					(unit 1)
@@ -3444,7 +3444,7 @@
 			(uuid "6496715a-b2a0-48b2-9978-52f0015fc91b")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR023")
 					(unit 1)
@@ -3524,7 +3524,7 @@
 			(uuid "f9da2c43-c7f6-4b34-9e0b-5f77c686393b")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR012")
 					(unit 1)
@@ -3602,7 +3602,7 @@
 			(uuid "a87c0c7c-d8d6-442b-83cd-1cebcddff5df")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR020")
 					(unit 1)
@@ -3682,7 +3682,7 @@
 			(uuid "50ec7375-fb20-4697-9b50-ccc056f51ec2")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR04")
 					(unit 1)
@@ -3760,7 +3760,7 @@
 			(uuid "b4aece15-01a4-4714-bc21-6a5a8a3b29d3")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR022")
 					(unit 1)
@@ -3840,7 +3840,7 @@
 			(uuid "d0728c5a-4c57-48db-b28b-0a1f03e78708")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR025")
 					(unit 1)
@@ -3916,6 +3916,116 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Breakdown Voltage" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Maximum Clamping Voltage" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Number of Lines" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 176.53 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "polarity" ""
 			(at 176.53 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -4023,7 +4133,7 @@
 			(uuid "ff679bdf-2a78-4ce5-ae68-62ea7f361e15")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "J2")
 					(unit 1)
@@ -4103,7 +4213,7 @@
 			(uuid "57490191-3adf-42f0-ac03-5f1407142c9c")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR027")
 					(unit 1)
@@ -4181,7 +4291,7 @@
 			(uuid "3760c99a-6a19-41d2-ab12-1dcd67393cd2")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR09")
 					(unit 1)
@@ -4257,6 +4367,116 @@
 			)
 		)
 		(property "Sim.Device" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Breakdown Voltage" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Maximum Clamping Voltage" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Number of Lines" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Peak Pulse Current (Ipp)" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Peak Pulse Power Dissipation (Ppp)" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Leakage Current (Ir)" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reverse Stand-Off Voltage (Vrwm)" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 100.33 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "polarity" ""
 			(at 100.33 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -4364,7 +4584,7 @@
 			(uuid "2620f47f-beea-48d3-ba19-5d8c1c64454b")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "J1")
 					(unit 1)
@@ -4444,7 +4664,7 @@
 			(uuid "09e0d7bf-1dc2-45cf-823c-f48b54f3e83c")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR017")
 					(unit 1)
@@ -4524,7 +4744,7 @@
 			(uuid "9588d027-e5cb-4636-8cf6-57c1ddad4ce9")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR028")
 					(unit 1)
@@ -4604,7 +4824,7 @@
 			(uuid "5f3521cc-5935-4dfb-a5a3-e69a75d14d5a")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR019")
 					(unit 1)
@@ -4684,7 +4904,7 @@
 			(uuid "c89cb3b6-a9fa-4dd5-8a75-047d5426d6bc")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR029")
 					(unit 1)
@@ -4762,7 +4982,7 @@
 			(uuid "51158ce7-6a36-47e6-ba68-3a75b7f47247")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR021")
 					(unit 1)
@@ -4842,7 +5062,7 @@
 			(uuid "fd17ba2b-8362-45ae-8888-49b484ad068b")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR02")
 					(unit 1)
@@ -4922,7 +5142,7 @@
 			(uuid "f151a410-4cc0-4c40-a187-796b885454a1")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR011")
 					(unit 1)
@@ -5002,7 +5222,7 @@
 			(uuid "6b28cdaa-56cd-4345-a2d5-3377b6693063")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR018")
 					(unit 1)
@@ -5080,7 +5300,7 @@
 			(uuid "083f879a-a9a7-4d95-a284-3315bb118323")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR039")
 					(unit 1)
@@ -5160,7 +5380,7 @@
 			(uuid "d8c775a3-fe02-451b-b09a-a4e4307f47ac")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR015")
 					(unit 1)
@@ -5240,7 +5460,7 @@
 			(uuid "8ae49d41-c79b-4ad9-8730-d75355a3e003")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR026")
 					(unit 1)
@@ -5320,7 +5540,7 @@
 			(uuid "d889591b-c927-45cc-9b1c-e46fbf715e84")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR05")
 					(unit 1)
@@ -5400,7 +5620,7 @@
 			(uuid "1e61bc8b-fd6f-4ac5-a1d2-2c13d2ba5a6f")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR010")
 					(unit 1)
@@ -5480,7 +5700,7 @@
 			(uuid "4813c5ea-1661-4a80-9618-46428dc50ab8")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR024")
 					(unit 1)
@@ -5560,7 +5780,7 @@
 			(uuid "0f800b6f-d4c9-43dc-acea-348c7ca95076")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR03")
 					(unit 1)
@@ -5640,7 +5860,7 @@
 			(uuid "ef25682c-0bcd-4d35-81c2-d025a73b5d63")
 		)
 		(instances
-			(project "MMS3_hat_templates"
+			(project "MMS3_hat_Meter-Source"
 				(path "/6596548a-44e0-46d8-8624-fd71cf4a3e17/fdb595ff-e94b-4e80-8fe7-e7d367588ab2"
 					(reference "#PWR013")
 					(unit 1)

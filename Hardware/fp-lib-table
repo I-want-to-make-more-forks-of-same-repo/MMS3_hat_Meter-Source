@@ -8,4 +8,6 @@
 	(lib (name "PgndNetTie") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-footprints/PgndNetTie.pretty") (options "") (descr ""))
 	(lib (name "QRcode") (type "KiCad") (uri "${KIPRJMOD}/lib/kicad-footprints/QRcode.pretty") (options "") (descr ""))
 	(lib (name "SS510C") (type "KiCad") (uri "C:/Users/Muse/Desktop/Pulpit/_Kola_naukowe/KoNarRobotics/MMS3_hat_protocol/lib/SS510C.pretty") (options "") (descr ""))
+	(lib (name "AGM40P25A_C22386140") (type "KiCad") (uri "${KIPRJMOD}/lib/AGM40P25A_C22386140.pretty") (options "") (descr ""))
+	(lib (name "Nmos_sth") (type "KiCad") (uri "${KIPRJMOD}/lib/Nmos_sth.pretty") (options "") (descr ""))
 )
