@@ -31382,7 +31382,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "M3 mount"
+		(property "Value" "M2.5 mount"
 			(at 114.3 384.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31393,7 +31393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
 			(at 111.76 383.54 0)
 			(hide yes)
 			(show_name no)
@@ -39396,7 +39396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "M3 mount"
+		(property "Value" "M2.5 mount"
 			(at 114.3 389.8899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39407,7 +39407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
 			(at 111.76 388.62 0)
 			(hide yes)
 			(show_name no)
@@ -44798,7 +44798,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "M3 mount"
+		(property "Value" "M2.5 mount"
 			(at 114.3 394.9699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44809,7 +44809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
 			(at 111.76 393.7 0)
 			(hide yes)
 			(show_name no)
@@ -46487,7 +46487,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "M3 Mount"
+		(property "Value" "M2.5 mount"
 			(at 97.79 384.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46498,7 +46498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad_TopOnly"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad_TopOnly"
 			(at 95.25 384.81 0)
 			(hide yes)
 			(show_name no)
