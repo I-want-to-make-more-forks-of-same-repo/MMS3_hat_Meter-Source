@@ -98,16 +98,16 @@
           ""
         ],
         [
+          "clearance|139440000|128005000|9f6235d7-0b17-4af1-86a4-cde802cc30a6|acdd60f2-7dab-42ac-85b5-69707b724333",
+          "clearance on footprint"
+        ],
+        [
           "clearance|139440000|128925000|acdd60f2-7dab-42ac-85b5-69707b724333|c0b684e2-9ee2-4971-b6be-33a346acd730",
           "clearance on footprint"
         ],
         [
           "clearance|140040000|128575000|423d2f9f-b031-4224-bf8e-84f206828658|7d47f6fd-d859-46bb-96b9-72a63e050bb3",
           ""
-        ],
-        [
-          "clearance|140040000|128575000|7d47f6fd-d859-46bb-96b9-72a63e050bb3|c0b684e2-9ee2-4971-b6be-33a346acd730",
-          "clearance on footprint"
         ],
         [
           "clearance|144825000|128680000|67992db8-857e-48e2-8354-643d6242ac16|c6b6b038-e301-4c4e-be5f-880e827030df",
@@ -134,12 +134,8 @@
           "clearance on footprint"
         ],
         [
-          "starved_thermal|104081289|105658725|92633035-f4ea-489e-83c4-67a33e47662f|f7fe399a-4b8a-4fd2-b405-b650606c9dec|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|106952477|108937121|92633035-f4ea-489e-83c4-67a33e47662f|e0d0be1d-0d28-4f6a-abb7-bd51f0891284|F.Cu",
-          ""
+          "courtyards_overlap|102695000|106975000|05f8fca3-41e1-4682-a8c5-fc99e7243c39|ba36d59b-e179-4ec4-8fa6-ca0023657a5a",
+          "We'll manage"
         ],
         [
           "starved_thermal|116570000|93038272|92633035-f4ea-489e-83c4-67a33e47662f|e6bba1f3-7345-4d0f-9ad9-ff1ea2c40e72|F.Cu",
@@ -1430,7 +1426,7 @@
         "uuid": "6596548a-44e0-46d8-8624-fd71cf4a3e17"
       }
     ],
-    "used_designators": "R2,R11,R13,R52,R54,D15",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

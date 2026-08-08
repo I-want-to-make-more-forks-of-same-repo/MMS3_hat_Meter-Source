@@ -4549,7 +4549,7 @@
 		(uuid "3565f4c6-a71f-4f39-938c-b298fd7e951b")
 	)
 	(label "CH32V003.SCL"
-		(at 58.42 93.98 0)
+		(at 58.42 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4609,7 +4609,7 @@
 		(uuid "5a4e7a95-31fe-4c04-bd63-54e98ca71288")
 	)
 	(label "CH32V003.SDA"
-		(at 58.42 97.79 0)
+		(at 58.42 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
