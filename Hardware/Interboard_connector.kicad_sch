@@ -1486,24 +1486,8 @@
 		(uuid "cf134a54-49c9-4a14-8910-0a07bd26df49")
 	)
 	(no_connect
-		(at 113.03 53.34)
-		(uuid "0427fdcb-8109-40d3-867c-2040404976b1")
-	)
-	(no_connect
-		(at 115.57 53.34)
-		(uuid "68d636a1-9377-4aca-b831-1da175305e8d")
-	)
-	(no_connect
 		(at 176.53 66.04)
 		(uuid "942aa047-5c48-4f89-b097-45449c7f68b3")
-	)
-	(no_connect
-		(at 191.77 53.34)
-		(uuid "b8590a22-20db-4e55-9607-810bcab54384")
-	)
-	(no_connect
-		(at 189.23 53.34)
-		(uuid "dc35df6b-0945-41e2-99a0-1db85e9e3fb1")
 	)
 	(bus_entry
 		(at 110.49 85.09)
@@ -2731,6 +2715,16 @@
 		)
 		(uuid "2bc6f0bc-063f-4ba8-a916-90f10d4fe95e")
 	)
+	(label "R2"
+		(at 191.77 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e9e8776-91f8-44a6-8d04-ef436959bb0c")
+	)
 	(label "Chainbus.MOSI"
 		(at 113.03 67.31 270)
 		(effects
@@ -2780,6 +2774,16 @@
 			(justify right bottom)
 		)
 		(uuid "67537ebd-3f67-444c-93a0-291e9d00af32")
+	)
+	(label "R1"
+		(at 189.23 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "69042968-6671-4154-b519-77345908015f")
 	)
 	(label "SEL4"
 		(at 163.83 76.2 270)
@@ -2841,6 +2845,16 @@
 		)
 		(uuid "96916dd0-4f83-4a1f-a180-f9cef08dff45")
 	)
+	(label "R2"
+		(at 115.57 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9696fb24-e5af-4ea6-adcd-564c3d2fd2e0")
+	)
 	(label "Chainbus.SDA"
 		(at 179.07 67.31 270)
 		(effects
@@ -2860,6 +2874,16 @@
 			(justify right bottom)
 		)
 		(uuid "9ee338c3-9dac-47b9-80aa-c5d4ab92c591")
+	)
+	(label "R1"
+		(at 113.03 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aef5a860-0ce0-4914-82e3-3c939bb26545")
 	)
 	(label "Chainbus.CS"
 		(at 107.95 67.31 270)
