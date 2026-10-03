@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.2,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -78,10 +94,6 @@
           ""
         ],
         [
-          "clearance|112950000|114492121|a2e752fc-a714-4d69-a7d0-fb024cb49ed9|2e43d0a7-eeba-4b87-b3e0-596cbf4d2a95",
-          "clearance on footprint"
-        ],
-        [
           "clearance|138840000|128575000|7d47f6fd-d859-46bb-96b9-72a63e050bb3|9f6235d7-0b17-4af1-86a4-cde802cc30a6",
           ""
         ],
@@ -98,19 +110,11 @@
           ""
         ],
         [
-          "clearance|139440000|128925000|acdd60f2-7dab-42ac-85b5-69707b724333|c0b684e2-9ee2-4971-b6be-33a346acd730",
-          "clearance on footprint"
-        ],
-        [
           "clearance|140040000|128575000|423d2f9f-b031-4224-bf8e-84f206828658|7d47f6fd-d859-46bb-96b9-72a63e050bb3",
           ""
         ],
         [
           "clearance|140040000|128575000|7d47f6fd-d859-46bb-96b9-72a63e050bb3|c0b684e2-9ee2-4971-b6be-33a346acd730",
-          ""
-        ],
-        [
-          "clearance|144825000|128680000|67992db8-857e-48e2-8354-643d6242ac16|c6b6b038-e301-4c4e-be5f-880e827030df",
           ""
         ],
         [
@@ -128,10 +132,6 @@
         [
           "clearance|94772477|115047121|102d23fd-596d-4488-b057-7701e1063a25|e149b750-2f27-4ca0-802e-aa8239861097",
           ""
-        ],
-        [
-          "clearance|97050000|114453058|4ff3fef5-561b-4705-ba12-44892551ba6e|aaf17b5a-a84e-422d-98dd-ad31d2c77620",
-          "clearance on footprint"
         ],
         [
           "courtyards_overlap|102695000|106975000|05f8fca3-41e1-4682-a8c5-fc99e7243c39|ba36d59b-e179-4ec4-8fa6-ca0023657a5a",
